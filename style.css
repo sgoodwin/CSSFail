@@ -1,0 +1,48 @@
+body {
+  background:url('wood.jpeg') top right no-repeat;
+  background-attachment: fixed;
+  margin: 0px 0px 0px 0px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#navigation {
+  background-color: GhostWhite;
+  width: 100%;
+  padding: 1px;
+}
+
+#navigation ul {
+  list-style-type: none;
+}
+
+#navigation li {
+  display: inline-block;
+  width: 15%;
+  padding: 10px;
+}
+
+.section {
+  background-color: GhostWhite;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 10px;
+  overflow: hidden;
+}
+
+img {
+  padding: 5px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
